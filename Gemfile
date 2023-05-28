@@ -7,7 +7,7 @@ gem 'uglifier',     '4.2.0'
 gem 'coffee-rails', '5.0.0'
 gem 'jquery-rails', '4.5.1'
 gem 'turbolinks',   '5.2.1'
-gem 'jbuilder',     '2.11.15'
+gem 'jbuilder',     '2.11.5'
 
 group :development, :test do
   gem 'sqlite3', '1.6.3'
