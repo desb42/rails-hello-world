@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails',        '5.0.7.2'
+gem 'rails',        '7.0.5'
 gem 'puma',         '6.2.2'
 gem 'sass-rails',   '5.0.6'
 gem 'uglifier',     '3.0.0'
